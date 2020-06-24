@@ -1,0 +1,418 @@
+{
+  "paragraphs": [
+    {
+      "text": "%md\n\nFor loop\n\n`for (\u003cidentifier\u003e \u003c- \u003citerator\u003e) [yield] [\u003cexpression\u003e]`\n\n\nSi noti che **yield** è opzionale, e serve per produrre un iterabile che possiamo assegnare ad un valore.\n\nPer esempio:",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-24 16:37:14.510",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003cp\u003eFor loop\u003c/p\u003e\n\u003cp\u003e\u003ccode\u003efor (\u0026lt;identifier\u0026gt; \u0026lt;- \u0026lt;iterator\u0026gt;) [yield] [\u0026lt;expression\u0026gt;]\u003c/code\u003e\u003c/p\u003e\n\u003cp\u003eSi noti che \u003cstrong\u003eyield\u003c/strong\u003e è opzionale, e serve per produrre un iterabile che possiamo assegnare ad un valore.\u003c/p\u003e\n\u003cp\u003ePer esempio:\u003c/p\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1592992819901_-1557187459",
+      "id": "20200624-120019_1572399672",
+      "dateCreated": "2020-06-24 12:00:19.901",
+      "dateStarted": "2020-06-24 16:37:14.510",
+      "dateFinished": "2020-06-24 16:37:14.516",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "for (x \u003c- 1 to 10) { println(s\"Elemento $x\") }",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-24 16:37:22.877",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "Elemento 1\r\nElemento 2\r\nElemento 3\r\nElemento 4\r\nElemento 5\r\nElemento 6\r\nElemento 7\r\nElemento 8\r\nElemento 9\r\nElemento 10\r\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593007260337_-884824541",
+      "id": "20200624-160100_580021448",
+      "dateCreated": "2020-06-24 16:01:00.337",
+      "dateStarted": "2020-06-24 16:37:22.891",
+      "dateFinished": "2020-06-24 16:37:23.254",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\nIn questo modo ad ogni iterazione stampo la stringa \"Elemento x\".\n\nSe invece vogliamo ottenere un iterabile che contenga le stringhe \"Elemento x\", da usare in un secondo tempo, posso usare **yield**",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-24 16:37:26.235",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003cp\u003eIn questo modo ad ogni iterazione stampo la stringa \u0026ldquo;Elemento x\u0026rdquo;.\u003c/p\u003e\n\u003cp\u003eSe invece vogliamo ottenere un iterabile che contenga le stringhe \u0026ldquo;Elemento x\u0026rdquo;, da usare in un secondo tempo, posso usare \u003cstrong\u003eyield\u003c/strong\u003e\u003c/p\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593007573357_93189619",
+      "id": "20200624-160613_1375402722",
+      "dateCreated": "2020-06-24 16:06:13.357",
+      "dateStarted": "2020-06-24 16:37:26.236",
+      "dateFinished": "2020-06-24 16:37:26.244",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "for (x \u003c- 1 to 7) yield { s\"Elemento $x\" }",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-24 16:37:30.551",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "res8: scala.collection.immutable.IndexedSeq[String] \u003d Vector(Elemento 1, Elemento 2, Elemento 3, Elemento 4, Elemento 5, Elemento 6, Elemento 7)\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593008045161_1570318033",
+      "id": "20200624-161405_1418902562",
+      "dateCreated": "2020-06-24 16:14:05.161",
+      "dateStarted": "2020-06-24 16:37:30.564",
+      "dateFinished": "2020-06-24 16:37:30.922",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\nil risultato è un vettore di stringhe, che è un sotto-tipo di un *immutable.IndexedSeq*\n\n\nNaturalmente per riutilizzare questo vettore devo assegnarlo ad un valore:",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-24 16:37:34.604",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003cp\u003eil risultato è un vettore di stringhe, che è un sotto-tipo di un \u003cem\u003eimmutable.IndexedSeq\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003eNaturalmente per riutilizzare questo vettore devo assegnarlo ad un valore:\u003c/p\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593008100932_353618257",
+      "id": "20200624-161500_459125688",
+      "dateCreated": "2020-06-24 16:15:00.932",
+      "dateStarted": "2020-06-24 16:37:34.605",
+      "dateFinished": "2020-06-24 16:37:34.611",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "val vec \u003d for (x \u003c- 1 to 7) yield { s\"Elemento $x\" }",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-24 16:37:39.404",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "vec: scala.collection.immutable.IndexedSeq[String] \u003d Vector(Elemento 1, Elemento 2, Elemento 3, Elemento 4, Elemento 5, Elemento 6, Elemento 7)\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593008277098_1312385636",
+      "id": "20200624-161757_1365710462",
+      "dateCreated": "2020-06-24 16:17:57.098",
+      "dateStarted": "2020-06-24 16:37:39.417",
+      "dateFinished": "2020-06-24 16:37:39.733",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\nAdesso posso iterare su questo vettore",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-24 16:21:14.830",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003cp\u003eAdesso posso iterare su questo vettore\u003c/p\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593008334486_1540256045",
+      "id": "20200624-161854_649481901",
+      "dateCreated": "2020-06-24 16:18:54.486",
+      "dateStarted": "2020-06-24 16:21:14.831",
+      "dateFinished": "2020-06-24 16:21:14.835",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "vec.foreach(println)",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-24 16:37:49.454",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "Elemento 1\r\nElemento 2\r\nElemento 3\r\nElemento 4\r\nElemento 5\r\nElemento 6\r\nElemento 7\r\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593008474815_95879934",
+      "id": "20200624-162114_1157700424",
+      "dateCreated": "2020-06-24 16:21:14.815",
+      "dateStarted": "2020-06-24 16:37:49.465",
+      "dateFinished": "2020-06-24 16:37:49.712",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\n\nIn questo modo abbiamo mappato i numeri da 1 a 10 in stringhe corrispondenti, ottenendo un iterabile che può essere usato in un altro for loop.",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-24 16:38:00.298",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003cp\u003eIn questo modo abbiamo mappato i numeri da 1 a 10 in stringhe corrispondenti, ottenendo un iterabile che può essere usato in un altro for loop.\u003c/p\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593008487579_1842744349",
+      "id": "20200624-162127_1025592415",
+      "dateCreated": "2020-06-24 16:21:27.579",
+      "dateStarted": "2020-06-24 16:38:00.299",
+      "dateFinished": "2020-06-24 16:38:00.303",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\n#### Riferimenti\nQuesto esempio è ispirato a:\n\nJason Swartz - Learning Scala - O\u0027really",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-24 16:38:03.761",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch4\u003eRiferimenti\u003c/h4\u003e\n\u003cp\u003eQuesto esempio è ispirato a:\u003c/p\u003e\n\u003cp\u003eJason Swartz - Learning Scala - O\u0026rsquo;really\u003c/p\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593009205962_-934662035",
+      "id": "20200624-163325_1934794607",
+      "dateCreated": "2020-06-24 16:33:25.962",
+      "dateStarted": "2020-06-24 16:38:03.762",
+      "dateFinished": "2020-06-24 16:38:03.778",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "For loop in Scala",
+  "id": "2FD4Z7QVV",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {
+    "md:shared_process": [],
+    "spark:shared_process": []
+  },
+  "config": {
+    "isZeppelinNotebookCronEnable": false
+  },
+  "info": {}
+}
