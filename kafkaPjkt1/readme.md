@@ -65,3 +65,18 @@ Verify that the records have been inserted in the table **accounts**:
 
 with the above query all existing record are shown.
 
+
+
+
+#### Troubleshooting
+
+Check the log, especially useful if something went wrong
+
+`cat /logs/connectStandalone.out`
+
+An error I had, may be because I run some the confluent platform multiple times, is the following (copied from the log):
+
+```
+WARN FAILED ServerConnector@65b863b9{HTTP/1.1}{0.0.0.0:8083}: java.net.BindException: Address already in use (org.eclipse.jetty.util.component.AbstractLifeCycle:212)
+java.net.BindException: Address already in use
+```
