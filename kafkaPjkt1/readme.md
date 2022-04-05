@@ -104,7 +104,7 @@ The first parameter is `worker.properties` and contains the configurations prope
 
 Configuration parameters can be found on this [page](https://docs.confluent.io/platform/current/connect/references/allconfigs.html)
 
-Somegvworker properties files samples are already included in the Confluent platform. For example 
+Some worker properties files samples are already included in the Confluent platform. For example 
 `/etc/schema-registry/connect-avro-standalone.properties`
 
 In particular the properties file above use the Avro converter that integrate with the Schema Registry. Mind that the Schema Registry server must be running.
