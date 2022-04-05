@@ -10,22 +10,24 @@
 
 ### Start the Docker Container and Open a New Shell Inside
 
-Start a docker container
+To start a docker container
 `docker run -it <image_name>`
 
 The reference to docker run is [here](https://docs.docker.com/engine/reference/run/)
 
-
+In my case I want to run an image of the confluent platform containing all components I need:
 `docker run -ti --rm --name sqlite-demo --network host confluentinc/docker-demo-base:3.3.0`
 
 `--name` to specify a container name
 `--network` to create a network, all the containers in the network can communicate among themselves
 
+After launching the above docker command you get a terminal into the container.
 
 if you get an error, here are some docker commands that can help by debbugging:
 - `docker container ls`
 - `docker container stop <container name>`
 - `docker container rm <container name>`
+
 
 #### Stat confluent kafka
 
@@ -35,6 +37,9 @@ This start the connect service in distributed mode.
 cd /tmp
 confluent start
 ```
+![start kafka](pics\starting-kafka.png)
+
+Among the components that have been launched there is **Kafka connect**. By default it is launched in distributed mode and using port 8083.
 
 By default kafka connect use port 8083. To use kafka connect in standalone mode I need to stop the service to free the port. Otherwise you get an error.
 
