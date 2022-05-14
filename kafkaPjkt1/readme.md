@@ -19,7 +19,7 @@ In my case I want to run an image of the confluent platform containing all compo
 `docker run -ti --rm --name sqlite-demo --network host confluentinc/docker-demo-base:3.3.0`
 
 `--name` to specify a container name
-`--network` to create a network, all the containers in the network can communicate among themselves
+`--network` to create a network, or connect to an existing one. All the containers in the network can communicate among themselves
 
 After launching the above docker command you get a terminal into the container.
 
@@ -37,9 +37,9 @@ This start the connect service in distributed mode.
 cd /tmp
 confluent start
 ```
-![start kafka](pics\starting-kafka.png)
+![start confluent kafka platform](pics\starting-kafka.png)
 
-Among the components that have been launched there is **Kafka connect**. By default it is launched in distributed mode and using port 8083.
+Among the components that have been launched there is **Kafka connect**, simply called **connect** in the screenshot above. By default it is launched in distributed mode and using port 8083.
 
 In the worker configuration file XXX is specified to use the port 8083 for the connect service:
 yxz
@@ -129,6 +129,7 @@ Kafka has available some ready to use consumer that just print out on screen the
 
 #### Troubleshooting
 
+##### connect log
 Check the log, especially useful if something went wrong
 
 `cat /logs/connectStandalone.out`
@@ -139,3 +140,12 @@ An error I had, may be because I run the confluent platform multiple times, is t
 WARN FAILED ServerConnector@65b863b9{HTTP/1.1}{0.0.0.0:8083}: java.net.BindException: Address already in use (org.eclipse.jetty.util.component.AbstractLifeCycle:212)
 java.net.BindException: Address already in use
 ```
+
+##### connect log4j
+
+file: `/etc/kafka/connect-log4j.properties`
+
+change: `log4j.rootLogger=INFO, stdout`
+to: `log4j.rootLogger=DEBUG, stdout`
+
+
