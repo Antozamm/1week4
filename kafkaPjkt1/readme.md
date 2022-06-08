@@ -53,17 +53,17 @@ Now I can start the worker in standalone mode, and as a daemon:
 
 Check the log to verify that it started correctly:
 `cat /logs/connectStandalone.out | grep -i "finished"`
+After a while you should see something like this:
+![kafka connector status](/pics/connect-standalone.png)
 
 ### Standalone vs distributed mode
+
+A brief explanation of the difference between the two modes:
 
 **Standalone** mode is useful for development and testing Kafka Connect on a local machine. It can also be used for environments that typically use single agents (for example, sending web server logs to Kafka).
 
 **Distributed** mode runs Connect workers on multiple machines (nodes). These form a Connect cluster. Kafka Connect distributes running connectors across the cluster. You can add more nodes or remove nodes as your needs evolve.
 
-#### Check the Connectors
-
-Each connector is a process that run in a JVM. To check which connectors are running use:
-`curl -s localhost:8083/connectors`
 
 
 #### install SQLite3 
@@ -99,10 +99,11 @@ INSERT INTO accounts (name) VALUES ('terry');
 
 Verify that the records have been inserted in the table **accounts**:
 
-`SELECT * FROM accounts`
+`SELECT * FROM accounts;`
 
 with the above query all existing record are shown.
 
+Use `.quit` to quit the sqlite3 prompt
 
 ### Connect the worker to read from the sqlite database
 
@@ -126,6 +127,14 @@ In the file `/etc/kafka-connect-jdbc/source-quickstart-sqlite.properties` there 
 Among the other the url of the broker and the topic to assign the data to.
 
 Now I have that the connector from the database to Kafka acts as producer.
+
+#### Check the Connectors
+
+Each connector is a process that run in a JVM. To check which connectors are running use:
+`curl -s localhost:8083/connectors`
+
+At this point I have the following connector running:
+`["test-source-sqlite-jdbc-autoincrement"]`
 
 What I need now is a consumer to get the data out of Kafka.
 
@@ -174,4 +183,4 @@ To ask the status of the connector send a GET request to the REST API of kafka c
 
 and this can be the answer:
 
-![kafka connector status](kafka-connector-status.png)
+![kafka connector status](/pics/kafka-connector-status.png)
