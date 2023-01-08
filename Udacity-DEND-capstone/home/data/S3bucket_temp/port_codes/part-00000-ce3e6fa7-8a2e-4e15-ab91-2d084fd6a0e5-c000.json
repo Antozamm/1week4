@@ -1,0 +1,660 @@
+{"code":"ALC","city_state":"ALCAN, AK             ","city":"ALCAN","state":" AK"}
+{"code":"ANC","city_state":"ANCHORAGE, AK         ","city":"ANCHORAGE","state":" AK"}
+{"code":"BAR","city_state":"BAKER AAF - BAKER ISLAND, AK","city":"BAKER AAF - BAKER ISLAND","state":" AK"}
+{"code":"DAC","city_state":"DALTONS CACHE, AK     ","city":"DALTONS CACHE","state":" AK"}
+{"code":"PIZ","city_state":"DEW STATION PT LAY DEW, AK","city":"DEW STATION PT LAY DEW","state":" AK"}
+{"code":"DTH","city_state":"DUTCH HARBOR, AK      ","city":"DUTCH HARBOR","state":" AK"}
+{"code":"EGL","city_state":"EAGLE, AK             ","city":"EAGLE","state":" AK"}
+{"code":"FRB","city_state":"FAIRBANKS, AK         ","city":"FAIRBANKS","state":" AK"}
+{"code":"HOM","city_state":"HOMER, AK             ","city":"HOMER","state":" AK"}
+{"code":"HYD","city_state":"HYDER, AK             ","city":"HYDER","state":" AK"}
+{"code":"JUN","city_state":"JUNEAU, AK            ","city":"JUNEAU","state":" AK"}
+{"code":"5KE","city_state":"KETCHIKAN, AK","city":"KETCHIKAN","state":" AK"}
+{"code":"KET","city_state":"KETCHIKAN, AK         ","city":"KETCHIKAN","state":" AK"}
+{"code":"MOS","city_state":"MOSES POINT INTERMEDIATE, AK","city":"MOSES POINT INTERMEDIATE","state":" AK"}
+{"code":"NIK","city_state":"NIKISKI, AK           ","city":"NIKISKI","state":" AK"}
+{"code":"NOM","city_state":"NOM, AK               ","city":"NOM","state":" AK"}
+{"code":"PKC","city_state":"POKER CREEK, AK       ","city":"POKER CREEK","state":" AK"}
+{"code":"ORI","city_state":"PORT LIONS SPB, AK","city":"PORT LIONS SPB","state":" AK"}
+{"code":"SKA","city_state":"SKAGWAY, AK           ","city":"SKAGWAY","state":" AK"}
+{"code":"SNP","city_state":"ST. PAUL ISLAND, AK","city":"ST. PAUL ISLAND","state":" AK"}
+{"code":"TKI","city_state":"TOKEEN, AK","city":"TOKEEN","state":" AK"}
+{"code":"WRA","city_state":"WRANGELL, AK          ","city":"WRANGELL","state":" AK"}
+{"code":"HSV","city_state":"MADISON COUNTY - HUNTSVILLE, AL","city":"MADISON COUNTY - HUNTSVILLE","state":" AL"}
+{"code":"MOB","city_state":"MOBILE, AL            ","city":"MOBILE","state":" AL"}
+{"code":"LIA","city_state":"LITTLE ROCK, AR (BPS)","city":"LITTLE ROCK","state":" AR (BPS)"}
+{"code":"ROG","city_state":"ROGERS ARPT, AR","city":"ROGERS ARPT","state":" AR"}
+{"code":"DOU","city_state":"DOUGLAS, AZ           ","city":"DOUGLAS","state":" AZ"}
+{"code":"LUK","city_state":"LUKEVILLE, AZ         ","city":"LUKEVILLE","state":" AZ"}
+{"code":"MAP","city_state":"MARIPOSA AZ           ","city":"MARIPOSA AZ           "}
+{"code":"NAC","city_state":"NACO, AZ              ","city":"NACO","state":" AZ"}
+{"code":"NOG","city_state":"NOGALES, AZ           ","city":"NOGALES","state":" AZ"}
+{"code":"PHO","city_state":"PHOENIX, AZ           ","city":"PHOENIX","state":" AZ"}
+{"code":"POR","city_state":"PORTAL, AZ","city":"PORTAL","state":" AZ"}
+{"code":"SLU","city_state":"SAN LUIS, AZ          ","city":"SAN LUIS","state":" AZ"}
+{"code":"SAS","city_state":"SASABE, AZ            ","city":"SASABE","state":" AZ"}
+{"code":"TUC","city_state":"TUCSON, AZ            ","city":"TUCSON","state":" AZ"}
+{"code":"YUI","city_state":"YUMA, AZ              ","city":"YUMA","state":" AZ"}
+{"code":"AND","city_state":"ANDRADE, CA           ","city":"ANDRADE","state":" CA"}
+{"code":"BUR","city_state":"BURBANK, CA","city":"BURBANK","state":" CA"}
+{"code":"CAL","city_state":"CALEXICO, CA          ","city":"CALEXICO","state":" CA"}
+{"code":"CAO","city_state":"CAMPO, CA             ","city":"CAMPO","state":" CA"}
+{"code":"FRE","city_state":"FRESNO, CA            ","city":"FRESNO","state":" CA"}
+{"code":"ICP","city_state":"IMPERIAL COUNTY, CA   ","city":"IMPERIAL COUNTY","state":" CA"}
+{"code":"LNB","city_state":"LONG BEACH, CA         ","city":"LONG BEACH","state":" CA"}
+{"code":"LOS","city_state":"LOS ANGELES, CA       ","city":"LOS ANGELES","state":" CA"}
+{"code":"BFL","city_state":"MEADOWS FIELD - BAKERSFIELD, CA","city":"MEADOWS FIELD - BAKERSFIELD","state":" CA"}
+{"code":"OAK","city_state":"OAKLAND, CA ","city":"OAKLAND","state":" CA"}
+{"code":"ONT","city_state":"ONTARIO, CA","city":"ONTARIO","state":" CA"}
+{"code":"OTM","city_state":"OTAY MESA, CA          ","city":"OTAY MESA","state":" CA"}
+{"code":"BLT","city_state":"PACIFIC, HWY. STATION, CA ","city":"PACIFIC","state":" HWY. STATION"}
+{"code":"PSP","city_state":"PALM SPRINGS, CA","city":"PALM SPRINGS","state":" CA"}
+{"code":"SAC","city_state":"SACRAMENTO, CA        ","city":"SACRAMENTO","state":" CA"}
+{"code":"SLS","city_state":"SALINAS, CA (BPS)","city":"SALINAS","state":" CA (BPS)"}
+{"code":"SDP","city_state":"SAN DIEGO, CA","city":"SAN DIEGO","state":" CA"}
+{"code":"SFR","city_state":"SAN FRANCISCO, CA     ","city":"SAN FRANCISCO","state":" CA"}
+{"code":"SNJ","city_state":"SAN JOSE, CA          ","city":"SAN JOSE","state":" CA"}
+{"code":"SLO","city_state":"SAN LUIS OBISPO, CA   ","city":"SAN LUIS OBISPO","state":" CA"}
+{"code":"SLI","city_state":"SAN LUIS OBISPO, CA (BPS)","city":"SAN LUIS OBISPO","state":" CA (BPS)"}
+{"code":"SPC","city_state":"SAN PEDRO, CA         ","city":"SAN PEDRO","state":" CA"}
+{"code":"SYS","city_state":"SAN YSIDRO, CA        ","city":"SAN YSIDRO","state":" CA"}
+{"code":"SAA","city_state":"SANTA ANA, CA         ","city":"SANTA ANA","state":" CA"}
+{"code":"STO","city_state":"STOCKTON, CA (BPS)","city":"STOCKTON","state":" CA (BPS)"}
+{"code":"TEC","city_state":"TECATE, CA            ","city":"TECATE","state":" CA"}
+{"code":"TRV","city_state":"TRAVIS-AFB, CA        ","city":"TRAVIS-AFB","state":" CA"}
+{"code":"APA","city_state":"ARAPAHOE COUNTY, CO","city":"ARAPAHOE COUNTY","state":" CO"}
+{"code":"ASE","city_state":"ASPEN, CO #ARPT","city":"ASPEN","state":" CO #ARPT"}
+{"code":"COS","city_state":"COLORADO SPRINGS, CO","city":"COLORADO SPRINGS","state":" CO"}
+{"code":"DEN","city_state":"DENVER, CO            ","city":"DENVER","state":" CO"}
+{"code":"DRO","city_state":"LA PLATA - DURANGO, CO","city":"LA PLATA - DURANGO","state":" CO"}
+{"code":"BDL","city_state":"BRADLEY INTERNATIONAL, CT","city":"BRADLEY INTERNATIONAL","state":" CT"}
+{"code":"BGC","city_state":"BRIDGEPORT, CT        ","city":"BRIDGEPORT","state":" CT"}
+{"code":"GRT","city_state":"GROTON, CT            ","city":"GROTON","state":" CT"}
+{"code":"HAR","city_state":"HARTFORD, CT          ","city":"HARTFORD","state":" CT"}
+{"code":"NWH","city_state":"NEW HAVEN, CT         ","city":"NEW HAVEN","state":" CT"}
+{"code":"NWL","city_state":"NEW LONDON, CT        ","city":"NEW LONDON","state":" CT"}
+{"code":"TST","city_state":"NEWINGTON DATA CENTER TEST, CT","city":"NEWINGTON DATA CENTER TEST","state":" CT"}
+{"code":"WAS","city_state":"WASHINGTON DC         ","city":"WASHINGTON DC         "}
+{"code":"DOV","city_state":"DOVER AFB, DE","city":"DOVER AFB","state":" DE"}
+{"code":"DVD","city_state":"DOVER-AFB, DE         ","city":"DOVER-AFB","state":" DE"}
+{"code":"WLL","city_state":"WILMINGTON, DE        ","city":"WILMINGTON","state":" DE"}
+{"code":"BOC","city_state":"BOCAGRANDE, FL        ","city":"BOCAGRANDE","state":" FL"}
+{"code":"SRQ","city_state":"BRADENTON - SARASOTA, FL","city":"BRADENTON - SARASOTA","state":" FL"}
+{"code":"CAN","city_state":"CAPE CANAVERAL, FL    ","city":"CAPE CANAVERAL","state":" FL"}
+{"code":"DAB","city_state":"DAYTONA BEACH INTERNATIONAL, FL","city":"DAYTONA BEACH INTERNATIONAL","state":" FL"}
+{"code":"FRN","city_state":"FERNANDINA, FL        ","city":"FERNANDINA","state":" FL"}
+{"code":"FTL","city_state":"FORT LAUDERDALE, FL   ","city":"FORT LAUDERDALE","state":" FL"}
+{"code":"FMY","city_state":"FORT MYERS, FL        ","city":"FORT MYERS","state":" FL"}
+{"code":"FPF","city_state":"FORT PIERCE, FL       ","city":"FORT PIERCE","state":" FL"}
+{"code":"HUR","city_state":"HURLBURT FIELD, FL","city":"HURLBURT FIELD","state":" FL"}
+{"code":"GNV","city_state":"J R ALISON MUNI - GAINESVILLE, FL","city":"J R ALISON MUNI - GAINESVILLE","state":" FL"}
+{"code":"JAC","city_state":"JACKSONVILLE, FL      ","city":"JACKSONVILLE","state":" FL"}
+{"code":"KEY","city_state":"KEY WEST, FL          ","city":"KEY WEST","state":" FL"}
+{"code":"LEE","city_state":"LEESBURG MUNICIPAL AIRPORT, FL","city":"LEESBURG MUNICIPAL AIRPORT","state":" FL"}
+{"code":"MLB","city_state":"MELBOURNE, FL","city":"MELBOURNE","state":" FL"}
+{"code":"MIA","city_state":"MIAMI, FL             ","city":"MIAMI","state":" FL"}
+{"code":"APF","city_state":"NAPLES, FL #ARPT","city":"NAPLES","state":" FL #ARPT"}
+{"code":"OPF","city_state":"OPA LOCKA, FL","city":"OPA LOCKA","state":" FL"}
+{"code":"ORL","city_state":"ORLANDO, FL           ","city":"ORLANDO","state":" FL"}
+{"code":"PAN","city_state":"PANAMA CITY, FL       ","city":"PANAMA CITY","state":" FL"}
+{"code":"PEN","city_state":"PENSACOLA, FL         ","city":"PENSACOLA","state":" FL"}
+{"code":"PCF","city_state":"PORT CANAVERAL, FL    ","city":"PORT CANAVERAL","state":" FL"}
+{"code":"PEV","city_state":"PORT EVERGLADES, FL   ","city":"PORT EVERGLADES","state":" FL"}
+{"code":"PSJ","city_state":"PORT ST JOE, FL       ","city":"PORT ST JOE","state":" FL"}
+{"code":"SFB","city_state":"SANFORD, FL           ","city":"SANFORD","state":" FL"}
+{"code":"SGJ","city_state":"ST AUGUSTINE ARPT, FL","city":"ST AUGUSTINE ARPT","state":" FL"}
+{"code":"SAU","city_state":"ST AUGUSTINE, FL      ","city":"ST AUGUSTINE","state":" FL"}
+{"code":"FPR","city_state":"ST LUCIE COUNTY, FL","city":"ST LUCIE COUNTY","state":" FL"}
+{"code":"SPE","city_state":"ST PETERSBURG, FL     ","city":"ST PETERSBURG","state":" FL"}
+{"code":"TAM","city_state":"TAMPA, FL             ","city":"TAMPA","state":" FL"}
+{"code":"WPB","city_state":"WEST PALM BEACH, FL   ","city":"WEST PALM BEACH","state":" FL"}
+{"code":"ATL","city_state":"ATLANTA, GA           ","city":"ATLANTA","state":" GA"}
+{"code":"BRU","city_state":"BRUNSWICK, GA         ","city":"BRUNSWICK","state":" GA"}
+{"code":"AGS","city_state":"BUSH FIELD - AUGUSTA, GA","city":"BUSH FIELD - AUGUSTA","state":" GA"}
+{"code":"SAV","city_state":"SAVANNAH, GA          ","city":"SAVANNAH","state":" GA"}
+{"code":"AGA","city_state":"AGANA, GU             ","city":"AGANA","state":" GU"}
+{"code":"HHW","city_state":"HONOLULU, HI          ","city":"HONOLULU","state":" HI"}
+{"code":"OGG","city_state":"KAHULUI - MAUI, HI","city":"KAHULUI - MAUI","state":" HI"}
+{"code":"KOA","city_state":"KEAHOLE-KONA, HI      ","city":"KEAHOLE-KONA","state":" HI"}
+{"code":"LIH","city_state":"LIHUE, HI             ","city":"LIHUE","state":" HI"}
+{"code":"CID","city_state":"CEDAR RAPIDS/IOWA CITY, IA","city":"CEDAR RAPIDS/IOWA CITY","state":" IA"}
+{"code":"DSM","city_state":"DES MOINES, IA","city":"DES MOINES","state":" IA"}
+{"code":"BOI","city_state":"AIR TERM. (GOWEN FLD) BOISE, ID","city":"AIR TERM. (GOWEN FLD) BOISE","state":" ID"}
+{"code":"EPI","city_state":"EASTPORT, ID          ","city":"EASTPORT","state":" ID"}
+{"code":"IDA","city_state":"FANNING FIELD - IDAHO FALLS, ID","city":"FANNING FIELD - IDAHO FALLS","state":" ID"}
+{"code":"PTL","city_state":"PORTHILL, ID          ","city":"PORTHILL","state":" ID"}
+{"code":"SPI","city_state":"CAPITAL - SPRINGFIELD, IL","city":"CAPITAL - SPRINGFIELD","state":" IL"}
+{"code":"CHI","city_state":"CHICAGO, IL           ","city":"CHICAGO","state":" IL"}
+{"code":"DPA","city_state":"DUPAGE COUNTY, IL","city":"DUPAGE COUNTY","state":" IL"}
+{"code":"PIA","city_state":"GREATER PEORIA, IL","city":"GREATER PEORIA","state":" IL"}
+{"code":"RFD","city_state":"GREATER ROCKFORD, IL","city":"GREATER ROCKFORD","state":" IL"}
+{"code":"UGN","city_state":"MEMORIAL - WAUKEGAN, IL","city":"MEMORIAL - WAUKEGAN","state":" IL"}
+{"code":"GAR","city_state":"GARY, IN              ","city":"GARY","state":" IN"}
+{"code":"HMM","city_state":"HAMMOND, IN           ","city":"HAMMOND","state":" IN"}
+{"code":"INP","city_state":"INDIANAPOLIS, IN      ","city":"INDIANAPOLIS","state":" IN"}
+{"code":"MRL","city_state":"MERRILLVILLE, IN      ","city":"MERRILLVILLE","state":" IN"}
+{"code":"SBN","city_state":"SOUTH BEND, IN","city":"SOUTH BEND","state":" IN"}
+{"code":"ICT","city_state":"MID-CONTINENT - WITCHITA, KS","city":"MID-CONTINENT - WITCHITA","state":" KS"}
+{"code":"LEX","city_state":"BLUE GRASS - LEXINGTON, KY","city":"BLUE GRASS - LEXINGTON","state":" KY"}
+{"code":"LOU","city_state":"LOUISVILLE, KY        ","city":"LOUISVILLE","state":" KY"}
+{"code":"BTN","city_state":"BATON ROUGE, LA       ","city":"BATON ROUGE","state":" LA"}
+{"code":"LKC","city_state":"LAKE CHARLES, LA      ","city":"LAKE CHARLES","state":" LA"}
+{"code":"LAK","city_state":"LAKE CHARLES, LA (BPS)","city":"LAKE CHARLES","state":" LA (BPS)"}
+{"code":"MLU","city_state":"MONROE, LA","city":"MONROE","state":" LA"}
+{"code":"MGC","city_state":"MORGAN CITY, LA       ","city":"MORGAN CITY","state":" LA"}
+{"code":"NOL","city_state":"NEW ORLEANS, LA       ","city":"NEW ORLEANS","state":" LA"}
+{"code":"BOS","city_state":"BOSTON, MA            ","city":"BOSTON","state":" MA"}
+{"code":"GLO","city_state":"GLOUCESTER, MA        ","city":"GLOUCESTER","state":" MA"}
+{"code":"BED","city_state":"HANSCOM FIELD - BEDFORD, MA","city":"HANSCOM FIELD - BEDFORD","state":" MA"}
+{"code":"LYN","city_state":"LYNDEN, WA            ","city":"LYNDEN","state":" WA"}
+{"code":"ADW","city_state":"ANDREWS AFB, MD","city":"ANDREWS AFB","state":" MD"}
+{"code":"BAL","city_state":"BALTIMORE, MD         ","city":"BALTIMORE","state":" MD"}
+{"code":"MKG","city_state":"MUSKEGON, MD","city":"MUSKEGON","state":" MD"}
+{"code":"PAX","city_state":"PATUXENT RIVER, MD    ","city":"PATUXENT RIVER","state":" MD"}
+{"code":"BGM","city_state":"BANGOR, ME            ","city":"BANGOR","state":" ME"}
+{"code":"BOO","city_state":"BOOTHBAY HARBOR, ME   ","city":"BOOTHBAY HARBOR","state":" ME"}
+{"code":"BWM","city_state":"BRIDGEWATER, ME       ","city":"BRIDGEWATER","state":" ME"}
+{"code":"BCK","city_state":"BUCKPORT, ME          ","city":"BUCKPORT","state":" ME"}
+{"code":"CLS","city_state":"CALAIS, ME   ","city":"CALAIS","state":" ME"}
+{"code":"CRB","city_state":"CARIBOU, ME           ","city":"CARIBOU","state":" ME"}
+{"code":"COB","city_state":"COBURN GORE, ME       ","city":"COBURN GORE","state":" ME"}
+{"code":"EST","city_state":"EASTCOURT, ME         ","city":"EASTCOURT","state":" ME"}
+{"code":"EPT","city_state":"EASTPORT MUNICIPAL, ME","city":"EASTPORT MUNICIPAL","state":" ME"}
+{"code":"EPM","city_state":"EASTPORT, ME          ","city":"EASTPORT","state":" ME"}
+{"code":"FOR","city_state":"FOREST CITY, ME       ","city":"FOREST CITY","state":" ME"}
+{"code":"FTF","city_state":"FORT FAIRFIELD, ME    ","city":"FORT FAIRFIELD","state":" ME"}
+{"code":"FTK","city_state":"FORT KENT, ME         ","city":"FORT KENT","state":" ME"}
+{"code":"HML","city_state":"HAMIIN, ME            ","city":"HAMIIN","state":" ME"}
+{"code":"HTM","city_state":"HOULTON, ME           ","city":"HOULTON","state":" ME"}
+{"code":"JKM","city_state":"JACKMAN, ME           ","city":"JACKMAN","state":" ME"}
+{"code":"KAL","city_state":"KALISPEL, MT          ","city":"KALISPEL","state":" MT"}
+{"code":"LIM","city_state":"LIMESTONE, ME         ","city":"LIMESTONE","state":" ME"}
+{"code":"LUB","city_state":"LUBEC, ME             ","city":"LUBEC","state":" ME"}
+{"code":"MAD","city_state":"MADAWASKA, ME         ","city":"MADAWASKA","state":" ME"}
+{"code":"POM","city_state":"PORTLAND, ME          ","city":"PORTLAND","state":" ME"}
+{"code":"RGM","city_state":"RANGELEY, ME (BPS)","city":"RANGELEY","state":" ME (BPS)"}
+{"code":"SBR","city_state":"SOUTH BREWER, ME      ","city":"SOUTH BREWER","state":" ME"}
+{"code":"SRL","city_state":"ST AURELIE, ME        ","city":"ST AURELIE","state":" ME"}
+{"code":"SPA","city_state":"ST PAMPILE, ME        ","city":"ST PAMPILE","state":" ME"}
+{"code":"VNB","city_state":"VAN BUREN, ME         ","city":"VAN BUREN","state":" ME"}
+{"code":"VCB","city_state":"VANCEBORO, ME         ","city":"VANCEBORO","state":" ME"}
+{"code":"AGN","city_state":"ALGONAC, MI           ","city":"ALGONAC","state":" MI"}
+{"code":"ALP","city_state":"ALPENA, MI            ","city":"ALPENA","state":" MI"}
+{"code":"BCY","city_state":"BAY CITY, MI          ","city":"BAY CITY","state":" MI"}
+{"code":"DET","city_state":"DETROIT, MI           ","city":"DETROIT","state":" MI"}
+{"code":"GRP","city_state":"GRAND RAPIDS, MI","city":"GRAND RAPIDS","state":" MI"}
+{"code":"GRO","city_state":"GROSSE ISLE, MI       ","city":"GROSSE ISLE","state":" MI"}
+{"code":"ISL","city_state":"ISLE ROYALE, MI       ","city":"ISLE ROYALE","state":" MI"}
+{"code":"MRC","city_state":"MARINE CITY, MI       ","city":"MARINE CITY","state":" MI"}
+{"code":"MRY","city_state":"MARYSVILLE, MI        ","city":"MARYSVILLE","state":" MI"}
+{"code":"PTK","city_state":"OAKLAND COUNTY - PONTIAC, MI","city":"OAKLAND COUNTY - PONTIAC","state":" MI"}
+{"code":"PHU","city_state":"PORT HURON, MI        ","city":"PORT HURON","state":" MI"}
+{"code":"RBT","city_state":"ROBERTS LANDING, MI   ","city":"ROBERTS LANDING","state":" MI"}
+{"code":"SAG","city_state":"SAGINAW, MI           ","city":"SAGINAW","state":" MI"}
+{"code":"SSM","city_state":"SAULT STE. MARIE, MI  ","city":"SAULT STE. MARIE","state":" MI"}
+{"code":"SCL","city_state":"ST CLAIR, MI          ","city":"ST CLAIR","state":" MI"}
+{"code":"YIP","city_state":"WILLOW RUN - YPSILANTI, MI","city":"WILLOW RUN - YPSILANTI","state":" MI"}
+{"code":"BAU","city_state":"BAUDETTE, MN          ","city":"BAUDETTE","state":" MN"}
+{"code":"CAR","city_state":"CARIBOU MUNICIPAL AIRPORT, MN","city":"CARIBOU MUNICIPAL AIRPORT","state":" MN"}
+{"code":"GTF","city_state":"Collapsed into INT, MN","city":"Collapsed into INT","state":" MN"}
+{"code":"INL","city_state":"Collapsed into INT, MN","city":"Collapsed into INT","state":" MN"}
+{"code":"CRA","city_state":"CRANE LAKE, MN        ","city":"CRANE LAKE","state":" MN"}
+{"code":"MIC","city_state":"CRYSTAL MUNICIPAL AIRPORT, MN","city":"CRYSTAL MUNICIPAL AIRPORT","state":" MN"}
+{"code":"DUL","city_state":"DULUTH, MN            ","city":"DULUTH","state":" MN"}
+{"code":"ELY","city_state":"ELY, MN               ","city":"ELY","state":" MN"}
+{"code":"GPM","city_state":"GRAND PORTAGE, MN     ","city":"GRAND PORTAGE","state":" MN"}
+{"code":"SVC","city_state":"GRANT COUNTY - SILVER CITY, MN","city":"GRANT COUNTY - SILVER CITY","state":" MN"}
+{"code":"INT","city_state":"INT","city":"INT"}
+{"code":"LAN","city_state":"LANCASTER, MN         ","city":"LANCASTER","state":" MN"}
+{"code":"MSP","city_state":"MINN./ST PAUL, MN     ","city":"MINN./ST PAUL","state":" MN"}
+{"code":"LIN","city_state":"NORTHERN SVC CENTER, MN   ","city":"NORTHERN SVC CENTER","state":" MN"}
+{"code":"NOY","city_state":"NOYES, MN             ","city":"NOYES","state":" MN"}
+{"code":"PIN","city_state":"PINE CREEK, MN        ","city":"PINE CREEK","state":" MN"}
+{"code":"48Y","city_state":"PINECREEK BORDER ARPT, MN","city":"PINECREEK BORDER ARPT","state":" MN"}
+{"code":"RAN","city_state":"RAINER, MN            ","city":"RAINER","state":" MN"}
+{"code":"RST","city_state":"ROCHESTER, MN","city":"ROCHESTER","state":" MN"}
+{"code":"ROS","city_state":"ROSEAU, MN            ","city":"ROSEAU","state":" MN"}
+{"code":"SPM","city_state":"ST PAUL, MN           ","city":"ST PAUL","state":" MN"}
+{"code":"WSB","city_state":"WARROAD INTL, SPB, MN","city":"WARROAD INTL","state":" SPB"}
+{"code":"WAR","city_state":"WARROAD, MN           ","city":"WARROAD","state":" MN"}
+{"code":"KAN","city_state":"KANSAS CITY, MO       ","city":"KANSAS CITY","state":" MO"}
+{"code":"SGF","city_state":"SPRINGFIELD-BRANSON, MO","city":"SPRINGFIELD-BRANSON","state":" MO"}
+{"code":"STL","city_state":"ST LOUIS, MO          ","city":"ST LOUIS","state":" MO"}
+{"code":"WHI","city_state":"WHITETAIL, MT         ","city":"WHITETAIL","state":" MT"}
+{"code":"WHM","city_state":"WILD HORSE, MT        ","city":"WILD HORSE","state":" MT"}
+{"code":"GPT","city_state":"BILOXI REGIONAL, MS","city":"BILOXI REGIONAL","state":" MS"}
+{"code":"GTR","city_state":"GOLDEN TRIANGLE LOWNDES CNTY, MS","city":"GOLDEN TRIANGLE LOWNDES CNTY","state":" MS"}
+{"code":"GUL","city_state":"GULFPORT, MS          ","city":"GULFPORT","state":" MS"}
+{"code":"PAS","city_state":"PASCAGOULA, MS        ","city":"PASCAGOULA","state":" MS"}
+{"code":"JAN","city_state":"THOMPSON FIELD - JACKSON, MS","city":"THOMPSON FIELD - JACKSON","state":" MS"}
+{"code":"BIL","city_state":"BILLINGS, MT          ","city":"BILLINGS","state":" MT"}
+{"code":"BTM","city_state":"BUTTE, MT             ","city":"BUTTE","state":" MT"}
+{"code":"CHF","city_state":"CHIEF MT, MT          ","city":"CHIEF MT","state":" MT"}
+{"code":"CTB","city_state":"CUT BANK MUNICIPAL, MT","city":"CUT BANK MUNICIPAL","state":" MT"}
+{"code":"CUT","city_state":"CUT BANK, MT          ","city":"CUT BANK","state":" MT"}
+{"code":"DLB","city_state":"DEL BONITA, MT        ","city":"DEL BONITA","state":" MT"}
+{"code":"EUR","city_state":"EUREKA, MT (BPS)","city":"EUREKA","state":" MT (BPS)"}
+{"code":"BZN","city_state":"GALLATIN FIELD - BOZEMAN, MT","city":"GALLATIN FIELD - BOZEMAN","state":" MT"}
+{"code":"FCA","city_state":"GLACIER NATIONAL PARK, MT","city":"GLACIER NATIONAL PARK","state":" MT"}
+{"code":"GGW","city_state":"GLASGOW, MT           ","city":"GLASGOW","state":" MT"}
+{"code":"GRE","city_state":"GREAT FALLS, MT       ","city":"GREAT FALLS","state":" MT"}
+{"code":"HVR","city_state":"HAVRE, MT             ","city":"HAVRE","state":" MT"}
+{"code":"HEL","city_state":"HELENA, MT            ","city":"HELENA","state":" MT"}
+{"code":"LWT","city_state":"LEWISTON, MT          ","city":"LEWISTON","state":" MT"}
+{"code":"MGM","city_state":"MORGAN, MT            ","city":"MORGAN","state":" MT"}
+{"code":"OPH","city_state":"OPHEIM, MT            ","city":"OPHEIM","state":" MT"}
+{"code":"PIE","city_state":"PIEGAN, MT            ","city":"PIEGAN","state":" MT"}
+{"code":"RAY","city_state":"RAYMOND, MT           ","city":"RAYMOND","state":" MT"}
+{"code":"ROO","city_state":"ROOSVILLE, MT         ","city":"ROOSVILLE","state":" MT"}
+{"code":"SCO","city_state":"SCOBEY, MT            ","city":"SCOBEY","state":" MT"}
+{"code":"SWE","city_state":"SWEETGTASS, MT        ","city":"SWEETGTASS","state":" MT"}
+{"code":"TRL","city_state":"TRIAL CREEK, MT       ","city":"TRIAL CREEK","state":" MT"}
+{"code":"TUR","city_state":"TURNER, MT            ","city":"TURNER","state":" MT"}
+{"code":"WCM","city_state":"WILLOW CREEK, MT      ","city":"WILLOW CREEK","state":" MT"}
+{"code":"CLT","city_state":"CHARLOTTE, NC         ","city":"CHARLOTTE","state":" NC"}
+{"code":"FAY","city_state":"FAYETTEVILLE, NC","city":"FAYETTEVILLE","state":" NC"}
+{"code":"MRH","city_state":"MOREHEAD CITY, NC     ","city":"MOREHEAD CITY","state":" NC"}
+{"code":"FOP","city_state":"MORRIS FIELDS AAF, NC","city":"MORRIS FIELDS AAF","state":" NC"}
+{"code":"GSO","city_state":"PIEDMONT TRIAD INTL AIRPORT, NC","city":"PIEDMONT TRIAD INTL AIRPORT","state":" NC"}
+{"code":"RDU","city_state":"RALEIGH/DURHAM, NC    ","city":"RALEIGH/DURHAM","state":" NC"}
+{"code":"SSC","city_state":"SHAW AFB - SUMTER, NC","city":"SHAW AFB - SUMTER","state":" NC"}
+{"code":"WIL","city_state":"WILMINGTON, NC        ","city":"WILMINGTON","state":" NC"}
+{"code":"AMB","city_state":"AMBROSE, ND           ","city":"AMBROSE","state":" ND"}
+{"code":"ANT","city_state":"ANTLER, ND            ","city":"ANTLER","state":" ND"}
+{"code":"CRY","city_state":"CARBURY, ND           ","city":"CARBURY","state":" ND"}
+{"code":"DNS","city_state":"DUNSEITH, ND          ","city":"DUNSEITH","state":" ND"}
+{"code":"FAR","city_state":"FARGO, ND             ","city":"FARGO","state":" ND"}
+{"code":"FRT","city_state":"FORTUNA, ND           ","city":"FORTUNA","state":" ND"}
+{"code":"GRF","city_state":"GRAND FORKS, ND       ","city":"GRAND FORKS","state":" ND"}
+{"code":"HNN","city_state":"HANNAH, ND            ","city":"HANNAH","state":" ND"}
+{"code":"HNS","city_state":"HANSBORO, ND          ","city":"HANSBORO","state":" ND"}
+{"code":"MAI","city_state":"MAIDA, ND             ","city":"MAIDA","state":" ND"}
+{"code":"MND","city_state":"MINOT, ND             ","city":"MINOT","state":" ND"}
+{"code":"NEC","city_state":"NECHE, ND             ","city":"NECHE","state":" ND"}
+{"code":"NOO","city_state":"NOONAN, ND            ","city":"NOONAN","state":" ND"}
+{"code":"NRG","city_state":"NORTHGATE, ND         ","city":"NORTHGATE","state":" ND"}
+{"code":"PEM","city_state":"PEMBINA, ND           ","city":"PEMBINA","state":" ND"}
+{"code":"SAR","city_state":"SARLES, ND            ","city":"SARLES","state":" ND"}
+{"code":"SHR","city_state":"SHERWOOD, ND          ","city":"SHERWOOD","state":" ND"}
+{"code":"SJO","city_state":"ST JOHN, ND           ","city":"ST JOHN","state":" ND"}
+{"code":"WAL","city_state":"WALHALLA, ND          ","city":"WALHALLA","state":" ND"}
+{"code":"WHO","city_state":"WESTHOPE, ND          ","city":"WESTHOPE","state":" ND"}
+{"code":"WND","city_state":"WILLISTON, ND         ","city":"WILLISTON","state":" ND"}
+{"code":"OMA","city_state":"OMAHA, NE             ","city":"OMAHA","state":" NE"}
+{"code":"LEB","city_state":"LEBANON, NH           ","city":"LEBANON","state":" NH"}
+{"code":"MHT","city_state":"MANCHESTER, NH","city":"MANCHESTER","state":" NH"}
+{"code":"PNH","city_state":"PITTSBURG, NH         ","city":"PITTSBURG","state":" NH"}
+{"code":"PSM","city_state":"PORTSMOUTH, NH        ","city":"PORTSMOUTH","state":" NH"}
+{"code":"BYO","city_state":"BAYONNE, NJ           ","city":"BAYONNE","state":" NJ"}
+{"code":"CNJ","city_state":"CAMDEN, NJ            ","city":"CAMDEN","state":" NJ"}
+{"code":"HOB","city_state":"HOBOKEN, NJ           ","city":"HOBOKEN","state":" NJ"}
+{"code":"JER","city_state":"JERSEY CITY, NJ       ","city":"JERSEY CITY","state":" NJ"}
+{"code":"WRI","city_state":"MC GUIRE AFB - WRIGHTSOWN, NJ","city":"MC GUIRE AFB - WRIGHTSOWN","state":" NJ"}
+{"code":"MMU","city_state":"MORRISTOWN, NJ","city":"MORRISTOWN","state":" NJ"}
+{"code":"NEW","city_state":"NEWARK/TETERBORO, NJ  ","city":"NEWARK/TETERBORO","state":" NJ"}
+{"code":"PER","city_state":"PERTH AMBOY, NJ       ","city":"PERTH AMBOY","state":" NJ"}
+{"code":"ACY","city_state":"POMONA FIELD - ATLANTIC CITY, NJ","city":"POMONA FIELD - ATLANTIC CITY","state":" NJ"}
+{"code":"ALA","city_state":"ALAMAGORDO, NM (BPS)","city":"ALAMAGORDO","state":" NM (BPS)"}
+{"code":"ABQ","city_state":"ALBUQUERQUE, NM       ","city":"ALBUQUERQUE","state":" NM"}
+{"code":"ANP","city_state":"ANTELOPE WELLS, NM    ","city":"ANTELOPE WELLS","state":" NM"}
+{"code":"CRL","city_state":"CARLSBAD, NM          ","city":"CARLSBAD","state":" NM"}
+{"code":"COL","city_state":"COLUMBUS, NM          ","city":"COLUMBUS","state":" NM"}
+{"code":"CDD","city_state":"CRANE LAKE - ST. LOUIS CNTY, NM","city":"CRANE LAKE - ST. LOUIS CNTY","state":" NM"}
+{"code":"DNM","city_state":"DEMING, NM (BPS)","city":"DEMING","state":" NM (BPS)"}
+{"code":"LAS","city_state":"LAS CRUCES, NM        ","city":"LAS CRUCES","state":" NM"}
+{"code":"LOB","city_state":"LORDSBURG, NM (BPS)","city":"LORDSBURG","state":" NM (BPS)"}
+{"code":"RUI","city_state":"RUIDOSO, NM","city":"RUIDOSO","state":" NM"}
+{"code":"STR","city_state":"SANTA TERESA, NM      ","city":"SANTA TERESA","state":" NM"}
+{"code":"RNO","city_state":"CANNON INTL - RENO/TAHOE, NV","city":"CANNON INTL - RENO/TAHOE","state":" NV"}
+{"code":"FLX","city_state":"FALLON MUNICIPAL AIRPORT, NV","city":"FALLON MUNICIPAL AIRPORT","state":" NV"}
+{"code":"LVG","city_state":"LAS VEGAS, NV         ","city":"LAS VEGAS","state":" NV"}
+{"code":"REN","city_state":"RENO, NV              ","city":"RENO","state":" NV"}
+{"code":"ALB","city_state":"ALBANY, NY            ","city":"ALBANY","state":" NY"}
+{"code":"AXB","city_state":"ALEXANDRIA BAY, NY    ","city":"ALEXANDRIA BAY","state":" NY"}
+{"code":"BUF","city_state":"BUFFALO, NY           ","city":"BUFFALO","state":" NY"}
+{"code":"CNH","city_state":"CANNON CORNERS, NY","city":"CANNON CORNERS","state":" NY"}
+{"code":"CAP","city_state":"CAPE VINCENT, NY      ","city":"CAPE VINCENT","state":" NY"}
+{"code":"CHM","city_state":"CHAMPLAIN, NY         ","city":"CHAMPLAIN","state":" NY"}
+{"code":"CHT","city_state":"CHATEAUGAY, NY        ","city":"CHATEAUGAY","state":" NY"}
+{"code":"CLA","city_state":"CLAYTON, NY           ","city":"CLAYTON","state":" NY"}
+{"code":"FTC","city_state":"FORT COVINGTON, NY    ","city":"FORT COVINGTON","state":" NY"}
+{"code":"LAG","city_state":"LA GUARDIA, NY        ","city":"LA GUARDIA","state":" NY"}
+{"code":"LEW","city_state":"LEWISTON, NY          ","city":"LEWISTON","state":" NY"}
+{"code":"MAS","city_state":"MASSENA, NY           ","city":"MASSENA","state":" NY"}
+{"code":"MAG","city_state":"MCGUIRE AFB, NY       ","city":"MCGUIRE AFB","state":" NY"}
+{"code":"MOO","city_state":"MOORES, NY            ","city":"MOORES","state":" NY"}
+{"code":"MRR","city_state":"MORRISTOWN, NY        ","city":"MORRISTOWN","state":" NY"}
+{"code":"NYC","city_state":"NEW YORK, NY          ","city":"NEW YORK","state":" NY"}
+{"code":"NIA","city_state":"NIAGARA FALLS, NY     ","city":"NIAGARA FALLS","state":" NY"}
+{"code":"OGD","city_state":"OGDENSBURG, NY        ","city":"OGDENSBURG","state":" NY"}
+{"code":"OSW","city_state":"OSWEGO, NY            ","city":"OSWEGO","state":" NY"}
+{"code":"ELM","city_state":"REGIONAL ARPT - HORSEHEAD, NY","city":"REGIONAL ARPT - HORSEHEAD","state":" NY"}
+{"code":"ROC","city_state":"ROCHESTER, NY         ","city":"ROCHESTER","state":" NY"}
+{"code":"ROU","city_state":"ROUSES POINT, NY      ","city":"ROUSES POINT","state":" NY"}
+{"code":"SWF","city_state":"STEWART - ORANGE CNTY, NY","city":"STEWART - ORANGE CNTY","state":" NY"}
+{"code":"SYR","city_state":"SYRACUSE, NY          ","city":"SYRACUSE","state":" NY"}
+{"code":"THO","city_state":"THOUSAND ISLAND BRIDGE, NY","city":"THOUSAND ISLAND BRIDGE","state":" NY"}
+{"code":"TRO","city_state":"TROUT RIVER, NY       ","city":"TROUT RIVER","state":" NY"}
+{"code":"WAT","city_state":"WATERTOWN, NY         ","city":"WATERTOWN","state":" NY"}
+{"code":"HPN","city_state":"WESTCHESTER - WHITE PLAINS, NY","city":"WESTCHESTER - WHITE PLAINS","state":" NY"}
+{"code":"WRB","city_state":"WHIRLPOOL BRIDGE, NY","city":"WHIRLPOOL BRIDGE","state":" NY"}
+{"code":"YOU","city_state":"YOUNGSTOWN, NY        ","city":"YOUNGSTOWN","state":" NY"}
+{"code":"AKR","city_state":"AKRON, OH             ","city":"AKRON","state":" OH"}
+{"code":"ATB","city_state":"ASHTABULA, OH         ","city":"ASHTABULA","state":" OH"}
+{"code":"CIN","city_state":"CINCINNATI, OH        ","city":"CINCINNATI","state":" OH"}
+{"code":"CLE","city_state":"CLEVELAND, OH         ","city":"CLEVELAND","state":" OH"}
+{"code":"CLM","city_state":"COLUMBUS, OH          ","city":"COLUMBUS","state":" OH"}
+{"code":"LOR","city_state":"LORAIN, OH            ","city":"LORAIN","state":" OH"}
+{"code":"MBO","city_state":"MARBLE HEADS, OH      ","city":"MARBLE HEADS","state":" OH"}
+{"code":"SDY","city_state":"SANDUSKY, OH          ","city":"SANDUSKY","state":" OH"}
+{"code":"TOL","city_state":"TOLEDO, OH            ","city":"TOLEDO","state":" OH"}
+{"code":"OKC","city_state":"OKLAHOMA CITY, OK     ","city":"OKLAHOMA CITY","state":" OK"}
+{"code":"TUL","city_state":"TULSA, OK","city":"TULSA","state":" OK"}
+{"code":"AST","city_state":"ASTORIA, OR           ","city":"ASTORIA","state":" OR"}
+{"code":"COO","city_state":"COOS BAY, OR          ","city":"COOS BAY","state":" OR"}
+{"code":"HIO","city_state":"HILLSBORO, OR","city":"HILLSBORO","state":" OR"}
+{"code":"MED","city_state":"MEDFORD, OR           ","city":"MEDFORD","state":" OR"}
+{"code":"NPT","city_state":"NEWPORT, OR           ","city":"NEWPORT","state":" OR"}
+{"code":"POO","city_state":"PORTLAND, OR          ","city":"PORTLAND","state":" OR"}
+{"code":"PUT","city_state":"PUT-IN-BAY, OH        ","city":"PUT-IN-BAY","state":" OH"}
+{"code":"RDM","city_state":"ROBERTS FIELDS - REDMOND, OR","city":"ROBERTS FIELDS - REDMOND","state":" OR"}
+{"code":"ERI","city_state":"ERIE, PA              ","city":"ERIE","state":" PA"}
+{"code":"MDT","city_state":"HARRISBURG, PA","city":"HARRISBURG","state":" PA"}
+{"code":"HSB","city_state":"HARRISONBURG, PA      ","city":"HARRISONBURG","state":" PA"}
+{"code":"PHI","city_state":"PHILADELPHIA, PA      ","city":"PHILADELPHIA","state":" PA"}
+{"code":"PIT","city_state":"PITTSBURG, PA         ","city":"PITTSBURG","state":" PA"}
+{"code":"AGU","city_state":"AGUADILLA, PR         ","city":"AGUADILLA","state":" PR"}
+{"code":"BQN","city_state":"BORINQUEN - AGUADILLO, PR","city":"BORINQUEN - AGUADILLO","state":" PR"}
+{"code":"JCP","city_state":"CULEBRA - BENJAMIN RIVERA, PR","city":"CULEBRA - BENJAMIN RIVERA","state":" PR"}
+{"code":"ENS","city_state":"ENSENADA, PR          ","city":"ENSENADA","state":" PR"}
+{"code":"FAJ","city_state":"FAJARDO, PR           ","city":"FAJARDO","state":" PR"}
+{"code":"HUM","city_state":"HUMACAO, PR           ","city":"HUMACAO","state":" PR"}
+{"code":"JOB","city_state":"JOBOS, PR             ","city":"JOBOS","state":" PR"}
+{"code":"MAY","city_state":"MAYAGUEZ, PR          ","city":"MAYAGUEZ","state":" PR"}
+{"code":"PON","city_state":"PONCE, PR             ","city":"PONCE","state":" PR"}
+{"code":"PSE","city_state":"PONCE-MERCEDITA, PR","city":"PONCE-MERCEDITA","state":" PR"}
+{"code":"SAJ","city_state":"SAN JUAN, PR          ","city":"SAN JUAN","state":" PR"}
+{"code":"VQS","city_state":"VIEQUES-ARPT, PR","city":"VIEQUES-ARPT","state":" PR"}
+{"code":"PRO","city_state":"PROVIDENCE, RI        ","city":"PROVIDENCE","state":" RI"}
+{"code":"PVD","city_state":"THEODORE FRANCIS - WARWICK, RI","city":"THEODORE FRANCIS - WARWICK","state":" RI"}
+{"code":"CHL","city_state":"CHARLESTON, SC        ","city":"CHARLESTON","state":" SC"}
+{"code":"CAE","city_state":"COLUMBIA, SC #ARPT","city":"COLUMBIA","state":" SC #ARPT"}
+{"code":"GEO","city_state":"GEORGETOWN, SC        ","city":"GEORGETOWN","state":" SC"}
+{"code":"GSP","city_state":"GREENVILLE, SC","city":"GREENVILLE","state":" SC"}
+{"code":"GRR","city_state":"GREER, SC","city":"GREER","state":" SC"}
+{"code":"MYR","city_state":"MYRTLE BEACH, SC","city":"MYRTLE BEACH","state":" SC"}
+{"code":"SPF","city_state":"BLACK HILLS, SPEARFISH, SD","city":"BLACK HILLS","state":" SPEARFISH"}
+{"code":"HON","city_state":"HOWES REGIONAL ARPT - HURON, SD","city":"HOWES REGIONAL ARPT - HURON","state":" SD"}
+{"code":"SAI","city_state":"SAIPAN, SPN           ","city":"SAIPAN","state":" SPN"}
+{"code":"TYS","city_state":"MC GHEE TYSON - ALCOA, TN","city":"MC GHEE TYSON - ALCOA","state":" TN"}
+{"code":"MEM","city_state":"MEMPHIS, TN           ","city":"MEMPHIS","state":" TN"}
+{"code":"NSV","city_state":"NASHVILLE, TN         ","city":"NASHVILLE","state":" TN"}
+{"code":"TRI","city_state":"TRI CITY ARPT, TN","city":"TRI CITY ARPT","state":" TN"}
+{"code":"ADS","city_state":"ADDISON AIRPORT- ADDISON, TX","city":"ADDISON AIRPORT- ADDISON","state":" TX"}
+{"code":"ADT","city_state":"AMISTAD DAM, TX       ","city":"AMISTAD DAM","state":" TX"}
+{"code":"ANZ","city_state":"ANZALDUAS, TX","city":"ANZALDUAS","state":" TX"}
+{"code":"AUS","city_state":"AUSTIN, TX            ","city":"AUSTIN","state":" TX"}
+{"code":"BEA","city_state":"BEAUMONT, TX          ","city":"BEAUMONT","state":" TX"}
+{"code":"BBP","city_state":"BIG BEND PARK, TX (BPS)","city":"BIG BEND PARK","state":" TX (BPS)"}
+{"code":"SCC","city_state":"BP SPEC COORD. CTR, TX","city":"BP SPEC COORD. CTR","state":" TX"}
+{"code":"BTC","city_state":"BP TACTICAL UNIT, TX  ","city":"BP TACTICAL UNIT","state":" TX"}
+{"code":"BOA","city_state":"BRIDGE OF AMERICAS, TX","city":"BRIDGE OF AMERICAS","state":" TX"}
+{"code":"BRO","city_state":"BROWNSVILLE, TX       ","city":"BROWNSVILLE","state":" TX"}
+{"code":"CRP","city_state":"CORPUS CHRISTI, TX    ","city":"CORPUS CHRISTI","state":" TX"}
+{"code":"DAL","city_state":"DALLAS, TX            ","city":"DALLAS","state":" TX"}
+{"code":"DLR","city_state":"DEL RIO, TX           ","city":"DEL RIO","state":" TX"}
+{"code":"DNA","city_state":"DONNA, TX","city":"DONNA","state":" TX"}
+{"code":"EGP","city_state":"EAGLE PASS, TX        ","city":"EAGLE PASS","state":" TX"}
+{"code":"ELP","city_state":"EL PASO, TX           ","city":"EL PASO","state":" TX"}
+{"code":"FAB","city_state":"FABENS, TX            ","city":"FABENS","state":" TX"}
+{"code":"FAL","city_state":"FALCON HEIGHTS, TX    ","city":"FALCON HEIGHTS","state":" TX"}
+{"code":"FTH","city_state":"FORT HANCOCK, TX      ","city":"FORT HANCOCK","state":" TX"}
+{"code":"AFW","city_state":"FORT WORTH ALLIANCE, TX","city":"FORT WORTH ALLIANCE","state":" TX"}
+{"code":"FPT","city_state":"FREEPORT, TX          ","city":"FREEPORT","state":" TX"}
+{"code":"GAL","city_state":"GALVESTON, TX         ","city":"GALVESTON","state":" TX"}
+{"code":"HLG","city_state":"HARLINGEN, TX         ","city":"HARLINGEN","state":" TX"}
+{"code":"HID","city_state":"HIDALGO, TX           ","city":"HIDALGO","state":" TX"}
+{"code":"HOU","city_state":"HOUSTON, TX           ","city":"HOUSTON","state":" TX"}
+{"code":"SGR","city_state":"HULL FIELD, SUGAR LAND ARPT, TX","city":"HULL FIELD","state":" SUGAR LAND ARPT"}
+{"code":"LLB","city_state":"JUAREZ-LINCOLN BRIDGE, TX","city":"JUAREZ-LINCOLN BRIDGE","state":" TX"}
+{"code":"LCB","city_state":"LAREDO COLUMBIA BRIDGE, TX","city":"LAREDO COLUMBIA BRIDGE","state":" TX"}
+{"code":"LRN","city_state":"LAREDO NORTH, TX      ","city":"LAREDO NORTH","state":" TX"}
+{"code":"LAR","city_state":"LAREDO, TX            ","city":"LAREDO","state":" TX"}
+{"code":"LSE","city_state":"LOS EBANOS, TX        ","city":"LOS EBANOS","state":" TX"}
+{"code":"IND","city_state":"LOS INDIOS, TX","city":"LOS INDIOS","state":" TX"}
+{"code":"LOI","city_state":"LOS INDIOS, TX        ","city":"LOS INDIOS","state":" TX"}
+{"code":"MRS","city_state":"MARFA, TX (BPS)","city":"MARFA","state":" TX (BPS)"}
+{"code":"MCA","city_state":"MCALLEN, TX           ","city":"MCALLEN","state":" TX"}
+{"code":"MAF","city_state":"ODESSA REGIONAL, TX","city":"ODESSA REGIONAL","state":" TX"}
+{"code":"PDN","city_state":"PASO DEL NORTE,TX     ","city":"PASO DEL NORTE","state":"TX"}
+{"code":"PBB","city_state":"PEACE BRIDGE, NY      ","city":"PEACE BRIDGE","state":" NY"}
+{"code":"PHR","city_state":"PHARR, TX             ","city":"PHARR","state":" TX"}
+{"code":"PAR","city_state":"PORT ARTHUR, TX       ","city":"PORT ARTHUR","state":" TX"}
+{"code":"ISB","city_state":"PORT ISABEL, TX       ","city":"PORT ISABEL","state":" TX"}
+{"code":"POE","city_state":"PORT OF EL PASO, TX   ","city":"PORT OF EL PASO","state":" TX"}
+{"code":"PRE","city_state":"PRESIDIO, TX          ","city":"PRESIDIO","state":" TX"}
+{"code":"PGR","city_state":"PROGRESO, TX          ","city":"PROGRESO","state":" TX"}
+{"code":"RIO","city_state":"RIO GRANDE CITY, TX   ","city":"RIO GRANDE CITY","state":" TX"}
+{"code":"ROM","city_state":"ROMA, TX              ","city":"ROMA","state":" TX"}
+{"code":"SNA","city_state":"SAN ANTONIO, TX       ","city":"SAN ANTONIO","state":" TX"}
+{"code":"SNN","city_state":"SANDERSON, TX         ","city":"SANDERSON","state":" TX"}
+{"code":"VIB","city_state":"VETERAN INTL BRIDGE, TX","city":"VETERAN INTL BRIDGE","state":" TX"}
+{"code":"YSL","city_state":"YSLETA, TX            ","city":"YSLETA","state":" TX"}
+{"code":"CHA","city_state":"CHARLOTTE AMALIE, VI  ","city":"CHARLOTTE AMALIE","state":" VI"}
+{"code":"CHR","city_state":"CHRISTIANSTED, VI     ","city":"CHRISTIANSTED","state":" VI"}
+{"code":"CRU","city_state":"CRUZ BAY, ST JOHN, VI ","city":"CRUZ BAY","state":" ST JOHN"}
+{"code":"FRK","city_state":"FREDERIKSTED, VI      ","city":"FREDERIKSTED","state":" VI"}
+{"code":"STT","city_state":"ST THOMAS, VI         ","city":"ST THOMAS","state":" VI"}
+{"code":"LGU","city_state":"CACHE AIRPORT - LOGAN, UT","city":"CACHE AIRPORT - LOGAN","state":" UT"}
+{"code":"SLC","city_state":"SALT LAKE CITY, UT    ","city":"SALT LAKE CITY","state":" UT"}
+{"code":"CHO","city_state":"ALBEMARLE CHARLOTTESVILLE, VA","city":"ALBEMARLE CHARLOTTESVILLE","state":" VA"}
+{"code":"DAA","city_state":"DAVISON AAF - FAIRFAX CNTY, VA","city":"DAVISON AAF - FAIRFAX CNTY","state":" VA"}
+{"code":"HOP","city_state":"HOPEWELL, VA          ","city":"HOPEWELL","state":" VA"}
+{"code":"HEF","city_state":"MANASSAS, VA #ARPT","city":"MANASSAS","state":" VA #ARPT"}
+{"code":"NWN","city_state":"NEWPORT, VA           ","city":"NEWPORT","state":" VA"}
+{"code":"NOR","city_state":"NORFOLK, VA           ","city":"NORFOLK","state":" VA"}
+{"code":"RCM","city_state":"RICHMOND, VA          ","city":"RICHMOND","state":" VA"}
+{"code":"ABS","city_state":"ALBURG SPRINGS, VT    ","city":"ALBURG SPRINGS","state":" VT"}
+{"code":"ABG","city_state":"ALBURG, VT            ","city":"ALBURG","state":" VT"}
+{"code":"BEB","city_state":"BEEBE PLAIN, VT       ","city":"BEEBE PLAIN","state":" VT"}
+{"code":"BEE","city_state":"BEECHER FALLS, VT     ","city":"BEECHER FALLS","state":" VT"}
+{"code":"BRG","city_state":"BURLINGTON, VT        ","city":"BURLINGTON","state":" VT"}
+{"code":"CNA","city_state":"CANAAN, VT            ","city":"CANAAN","state":" VT"}
+{"code":"DER","city_state":"DERBY LINE, VT (I-91) ","city":"DERBY LINE","state":" VT (I-91)"}
+{"code":"DLV","city_state":"DERBY LINE, VT (RT. 5)","city":"DERBY LINE","state":" VT (RT. 5)"}
+{"code":"ERC","city_state":"EAST RICHFORD, VT     ","city":"EAST RICHFORD","state":" VT"}
+{"code":"HIG","city_state":"HIGHGATE SPRINGS, VT  ","city":"HIGHGATE SPRINGS","state":" VT"}
+{"code":"MOR","city_state":"MORSES LINE, VT       ","city":"MORSES LINE","state":" VT"}
+{"code":"NPV","city_state":"NEWPORT, VT           ","city":"NEWPORT","state":" VT"}
+{"code":"NRT","city_state":"NORTH TROY, VT        ","city":"NORTH TROY","state":" VT"}
+{"code":"NRN","city_state":"NORTON, VT            ","city":"NORTON","state":" VT"}
+{"code":"PIV","city_state":"PINNACLE ROAD, VT     ","city":"PINNACLE ROAD","state":" VT"}
+{"code":"RIF","city_state":"RICHFORT, VT          ","city":"RICHFORT","state":" VT"}
+{"code":"STA","city_state":"ST ALBANS, VT         ","city":"ST ALBANS","state":" VT"}
+{"code":"SWB","city_state":"SWANTON, VT (BP - SECTOR HQ)","city":"SWANTON","state":" VT (BP - SECTOR HQ)"}
+{"code":"WBE","city_state":"WEST BERKSHIRE, VT    ","city":"WEST BERKSHIRE","state":" VT"}
+{"code":"ABE","city_state":"ABERDEEN, WA          ","city":"ABERDEEN","state":" WA"}
+{"code":"ANA","city_state":"ANACORTES, WA         ","city":"ANACORTES","state":" WA"}
+{"code":"BEL","city_state":"BELLINGHAM, WA        ","city":"BELLINGHAM","state":" WA"}
+{"code":"BLI","city_state":"BELLINGHAM, WASHINGTON #INTL","city":"BELLINGHAM","state":" WASHINGTON #INTL"}
+{"code":"BLA","city_state":"BLAINE, WA            ","city":"BLAINE","state":" WA"}
+{"code":"BWA","city_state":"BOUNDARY, WA          ","city":"BOUNDARY","state":" WA"}
+{"code":"CUR","city_state":"CURLEW, WA (BPS)","city":"CURLEW","state":" WA (BPS)"}
+{"code":"DVL","city_state":"DANVILLE, WA          ","city":"DANVILLE","state":" WA"}
+{"code":"EVE","city_state":"EVERETT, WA           ","city":"EVERETT","state":" WA"}
+{"code":"FER","city_state":"FERRY, WA             ","city":"FERRY","state":" WA"}
+{"code":"FRI","city_state":"FRIDAY HARBOR, WA     ","city":"FRIDAY HARBOR","state":" WA"}
+{"code":"FWA","city_state":"FRONTIER, WA          ","city":"FRONTIER","state":" WA"}
+{"code":"KLM","city_state":"KALAMA, WA            ","city":"KALAMA","state":" WA"}
+{"code":"LAU","city_state":"LAURIER, WA           ","city":"LAURIER","state":" WA"}
+{"code":"LON","city_state":"LONGVIEW, WA          ","city":"LONGVIEW","state":" WA"}
+{"code":"MET","city_state":"METALINE FALLS, WA    ","city":"METALINE FALLS","state":" WA"}
+{"code":"MWH","city_state":"MOSES LAKE GRANT COUNTY ARPT, WA","city":"MOSES LAKE GRANT COUNTY ARPT","state":" WA"}
+{"code":"NEA","city_state":"NEAH BAY, WA          ","city":"NEAH BAY","state":" WA"}
+{"code":"NIG","city_state":"NIGHTHAWK, WA         ","city":"NIGHTHAWK","state":" WA"}
+{"code":"OLY","city_state":"OLYMPIA, WA           ","city":"OLYMPIA","state":" WA"}
+{"code":"ORO","city_state":"OROVILLE, WA          ","city":"OROVILLE","state":" WA"}
+{"code":"PWB","city_state":"PASCO, WA             ","city":"PASCO","state":" WA"}
+{"code":"PIR","city_state":"POINT ROBERTS, WA     ","city":"POINT ROBERTS","state":" WA"}
+{"code":"PNG","city_state":"PORT ANGELES, WA      ","city":"PORT ANGELES","state":" WA"}
+{"code":"PTO","city_state":"PORT TOWNSEND, WA     ","city":"PORT TOWNSEND","state":" WA"}
+{"code":"SEA","city_state":"SEATTLE, WA           ","city":"SEATTLE","state":" WA"}
+{"code":"SPO","city_state":"SPOKANE, WA           ","city":"SPOKANE","state":" WA"}
+{"code":"SUM","city_state":"SUMAS, WA             ","city":"SUMAS","state":" WA"}
+{"code":"TAC","city_state":"TACOMA, WA            ","city":"TACOMA","state":" WA"}
+{"code":"PSC","city_state":"TRI-CITIES - PASCO, WA","city":"TRI-CITIES - PASCO","state":" WA"}
+{"code":"VAN","city_state":"VANCOUVER, WA         ","city":"VANCOUVER","state":" WA"}
+{"code":"AGM","city_state":"ALGOMA, WI            ","city":"ALGOMA","state":" WI"}
+{"code":"BAY","city_state":"BAYFIELD, WI          ","city":"BAYFIELD","state":" WI"}
+{"code":"GRB","city_state":"GREEN BAY, WI         ","city":"GREEN BAY","state":" WI"}
+{"code":"MNW","city_state":"MANITOWOC, WI         ","city":"MANITOWOC","state":" WI"}
+{"code":"MIL","city_state":"MILWAUKEE, WI         ","city":"MILWAUKEE","state":" WI"}
+{"code":"MSN","city_state":"TRUAX FIELD - DANE COUNTY, WI","city":"TRUAX FIELD - DANE COUNTY","state":" WI"}
+{"code":"CHS","city_state":"CHARLESTON, WV        ","city":"CHARLESTON","state":" WV"}
+{"code":"CLK","city_state":"CLARKSBURG, WV        ","city":"CLARKSBURG","state":" WV"}
+{"code":"BLF","city_state":"MERCER COUNTY, WV","city":"MERCER COUNTY","state":" WV"}
+{"code":"CSP","city_state":"CASPER, WY            ","city":"CASPER","state":" WY"}
+{"code":"XXX","city_state":"NOT REPORTED/UNKNOWN  ","city":"NOT REPORTED/UNKNOWN  "}
+{"code":"888","city_state":"UNIDENTIFED AIR / SEAPORT","city":"UNIDENTIFED AIR / SEAPORT"}
+{"code":"UNK","city_state":"UNKNOWN POE           ","city":"UNKNOWN POE           "}
+{"code":"CLG","city_state":"CALGARY, CANADA       ","city":"CALGARY","state":" CANADA"}
+{"code":"EDA","city_state":"EDMONTON, CANADA      ","city":"EDMONTON","state":" CANADA"}
+{"code":"YHC","city_state":"HAKAI PASS, CANADA","city":"HAKAI PASS","state":" CANADA"}
+{"code":"HAL","city_state":"Halifax, NS, Canada   ","city":"Halifax","state":" NS"}
+{"code":"MON","city_state":"MONTREAL, CANADA      ","city":"MONTREAL","state":" CANADA"}
+{"code":"OTT","city_state":"OTTAWA, CANADA        ","city":"OTTAWA","state":" CANADA"}
+{"code":"YXE","city_state":"SASKATOON, CANADA","city":"SASKATOON","state":" CANADA"}
+{"code":"TOR","city_state":"TORONTO, CANADA       ","city":"TORONTO","state":" CANADA"}
+{"code":"VCV","city_state":"VANCOUVER, CANADA     ","city":"VANCOUVER","state":" CANADA"}
+{"code":"VIC","city_state":"VICTORIA, CANADA      ","city":"VICTORIA","state":" CANADA"}
+{"code":"WIN","city_state":"WINNIPEG, CANADA      ","city":"WINNIPEG","state":" CANADA"}
+{"code":"AMS","city_state":"AMSTERDAM-SCHIPHOL, NETHERLANDS","city":"AMSTERDAM-SCHIPHOL","state":" NETHERLANDS"}
+{"code":"ARB","city_state":"ARUBA, NETH ANTILLES  ","city":"ARUBA","state":" NETH ANTILLES"}
+{"code":"BAN","city_state":"BANKOK, THAILAND      ","city":"BANKOK","state":" THAILAND"}
+{"code":"BEI","city_state":"BEICA #ARPT, ETHIOPIA","city":"BEICA #ARPT","state":" ETHIOPIA"}
+{"code":"PEK","city_state":"BEIJING CAPITAL INTL, PRC","city":"BEIJING CAPITAL INTL","state":" PRC"}
+{"code":"BDA","city_state":"KINDLEY FIELD, BERMUDA","city":"KINDLEY FIELD","state":" BERMUDA"}
+{"code":"BOG","city_state":"BOGOTA, EL DORADO #ARPT, COLOMBIA","city":"BOGOTA","state":" EL DORADO #ARPT"}
+{"code":"EZE","city_state":"BUENOS AIRES, MINISTRO PIST, ARGENTINA","city":"BUENOS AIRES","state":" MINISTRO PIST"}
+{"code":"CUN","city_state":"CANCUN, MEXICO","city":"CANCUN","state":" MEXICO"}
+{"code":"CRQ","city_state":"CARAVELAS, BA #ARPT, BRAZIL","city":"CARAVELAS","state":" BA #ARPT"}
+{"code":"MVD","city_state":"CARRASCO, URUGUAY","city":"CARRASCO","state":" URUGUAY"}
+{"code":"DUB","city_state":"DUBLIN, IRELAND       ","city":"DUBLIN","state":" IRELAND"}
+{"code":"FOU","city_state":"FOUGAMOU #ARPT, GABON","city":"FOUGAMOU #ARPT","state":" GABON"}
+{"code":"FBA","city_state":"FREEPORT, BAHAMAS      ","city":"FREEPORT","state":" BAHAMAS"}
+{"code":"MTY","city_state":"GEN M. ESCOBEDO, Monterrey, MX","city":"GEN M. ESCOBEDO","state":" Monterrey"}
+{"code":"HMO","city_state":"GEN PESQUEIRA GARCIA, MX","city":"GEN PESQUEIRA GARCIA","state":" MX"}
+{"code":"GCM","city_state":"GRAND CAYMAN, CAYMAN ISLAND","city":"GRAND CAYMAN","state":" CAYMAN ISLAND"}
+{"code":"GDL","city_state":"GUADALAJARA, MIGUEL HIDAL, MX","city":"GUADALAJARA","state":" MIGUEL HIDAL"}
+{"code":"HAM","city_state":"HAMILTON, BERMUDA     ","city":"HAMILTON","state":" BERMUDA"}
+{"code":"ICN","city_state":"INCHON, SEOUL KOREA","city":"INCHON","state":" SEOUL KOREA"}
+{"code":"IWA","city_state":"INVALID - IWAKUNI, JAPAN","city":"INVALID - IWAKUNI","state":" JAPAN"}
+{"code":"CND","city_state":"KOGALNICEANU, ROMANIA","city":"KOGALNICEANU","state":" ROMANIA"}
+{"code":"LAH","city_state":"LABUHA ARPT, INDONESIA","city":"LABUHA ARPT","state":" INDONESIA"}
+{"code":"DUR","city_state":"LOUIS BOTHA, SOUTH AFRICA","city":"LOUIS BOTHA","state":" SOUTH AFRICA"}
+{"code":"MAL","city_state":"MANGOLE ARPT, INDONESIA","city":"MANGOLE ARPT","state":" INDONESIA"}
+{"code":"MDE","city_state":"MEDELLIN, COLOMBIA","city":"MEDELLIN","state":" COLOMBIA"}
+{"code":"MEX","city_state":"JUAREZ INTL, MEXICO CITY, MX","city":"JUAREZ INTL","state":" MEXICO CITY"}
+{"code":"LHR","city_state":"MIDDLESEX, ENGLAND","city":"MIDDLESEX","state":" ENGLAND"}
+{"code":"NBO","city_state":"NAIROBI, KENYA        ","city":"NAIROBI","state":" KENYA"}
+{"code":"NAS","city_state":"NASSAU, BAHAMAS       ","city":"NASSAU","state":" BAHAMAS"}
+{"code":"NCA","city_state":"NORTH CAICOS, TURK & CAIMAN","city":"NORTH CAICOS","state":" TURK & CAIMAN"}
+{"code":"PTY","city_state":"OMAR TORRIJOS, PANAMA","city":"OMAR TORRIJOS","state":" PANAMA"}
+{"code":"SPV","city_state":"PAPUA, NEW GUINEA","city":"PAPUA","state":" NEW GUINEA"}
+{"code":"UIO","city_state":"QUITO (MARISCAL SUCR), ECUADOR","city":"QUITO (MARISCAL SUCR)","state":" ECUADOR"}
+{"code":"RIT","city_state":"ROME, ITALY           ","city":"ROME","state":" ITALY"}
+{"code":"SNO","city_state":"SAKON NAKHON #ARPT, THAILAND","city":"SAKON NAKHON #ARPT","state":" THAILAND"}
+{"code":"SLP","city_state":"SAN LUIS POTOSI #ARPT, MEXICO","city":"SAN LUIS POTOSI #ARPT","state":" MEXICO"}
+{"code":"SAN","city_state":"SAN SALVADOR, EL SALVADOR","city":"SAN SALVADOR","state":" EL SALVADOR"}
+{"code":"SRO","city_state":"SANTANA RAMOS #ARPT, COLOMBIA","city":"SANTANA RAMOS #ARPT","state":" COLOMBIA"}
+{"code":"GRU","city_state":"GUARULHOS INTL, SAO PAULO, BRAZIL","city":"GUARULHOS INTL","state":" SAO PAULO"}
+{"code":"SHA","city_state":"SHANNON, IRELAND      ","city":"SHANNON","state":" IRELAND"}
+{"code":"HIL","city_state":"SHILLAVO, ETHIOPIA","city":"SHILLAVO","state":" ETHIOPIA"}
+{"code":"TOK","city_state":"TOROKINA #ARPT, PAPUA, NEW GUINEA","city":"TOROKINA #ARPT","state":" PAPUA"}
+{"code":"VER","city_state":"VERACRUZ, MEXICO","city":"VERACRUZ","state":" MEXICO"}
+{"code":"LGW","city_state":"WEST SUSSEX, ENGLAND  ","city":"WEST SUSSEX","state":" ENGLAND"}
+{"code":"ZZZ","city_state":"MEXICO Land (Banco de Mexico) ","city":"MEXICO Land (Banco de Mexico) "}
+{"code":"CHN","city_state":"No PORT Code (CHN)","city":"No PORT Code (CHN)"}
+{"code":"CNC","city_state":"CANNON CORNERS, NY","city":"CANNON CORNERS","state":" NY"}
+{"code":"MAA","city_state":"Abu Dhabi","city":"Abu Dhabi"}
+{"code":"AG0","city_state":"MAGNOLIA, AR","city":"MAGNOLIA","state":" AR"}
+{"code":"BHM","city_state":"BAR HARBOR, ME","city":"BAR HARBOR","state":" ME"}
+{"code":"BHX","city_state":"BIRMINGHAM, AL","city":"BIRMINGHAM","state":" AL"}
+{"code":"CAK","city_state":"AKRON, OH","city":"AKRON","state":" OH"}
+{"code":"FOK","city_state":"SUFFOLK COUNTY, NY","city":"SUFFOLK COUNTY","state":" NY"}
+{"code":"LND","city_state":"LANDER, WY","city":"LANDER","state":" WY"}
+{"code":"MAR","city_state":"MARFA, TX","city":"MARFA","state":" TX"}
+{"code":"MLI","city_state":"MOLINE, IL","city":"MOLINE","state":" IL"}
+{"code":"RIV","city_state":"RIVERSIDE, CA","city":"RIVERSIDE","state":" CA"}
+{"code":"RME","city_state":"ROME, NY","city":"ROME","state":" NY"}
+{"code":"VNY","city_state":"VAN NUYS, CA","city":"VAN NUYS","state":" CA"}
+{"code":"YUM","city_state":"YUMA, AZ","city":"YUMA","state":" AZ"}
+{"code":"FRG","city_state":"Collapsed (FOK) 06/15","city":"Collapsed (FOK) 06/15"}
+{"code":"HRL","city_state":"Collapsed (HLG) 06/15","city":"Collapsed (HLG) 06/15"}
+{"code":"ISP","city_state":"Collapsed (FOK) 06/15","city":"Collapsed (FOK) 06/15"}
+{"code":"JSJ","city_state":"Collapsed (SAJ) 06/15","city":"Collapsed (SAJ) 06/15"}
+{"code":"BUS","city_state":"Collapsed (BUF) 06/15","city":"Collapsed (BUF) 06/15"}
+{"code":"IAG","city_state":"Collapsed (NIA) 06/15","city":"Collapsed (NIA) 06/15"}
+{"code":"PHN","city_state":"Collapsed (PHU) 06/15","city":"Collapsed (PHU) 06/15"}
+{"code":"STN","city_state":"Collapsed (STR) 06/15","city":"Collapsed (STR) 06/15"}
+{"code":"VMB","city_state":"Collapsed (VNB) 06/15","city":"Collapsed (VNB) 06/15"}
+{"code":"T01","city_state":"Collapsed (SEA) 06/15","city":"Collapsed (SEA) 06/15"}
+{"code":"PHF","city_state":"No PORT Code (PHF)","city":"No PORT Code (PHF)"}
+{"code":"DRV","city_state":"No PORT Code (DRV)","city":"No PORT Code (DRV)"}
+{"code":"FTB","city_state":"No PORT Code (FTB)","city":"No PORT Code (FTB)"}
+{"code":"GAC","city_state":"No PORT Code (GAC)","city":"No PORT Code (GAC)"}
+{"code":"GMT","city_state":"No PORT Code (GMT)","city":"No PORT Code (GMT)"}
+{"code":"JFA","city_state":"No PORT Code (JFA)","city":"No PORT Code (JFA)"}
+{"code":"JMZ","city_state":"No PORT Code (JMZ)","city":"No PORT Code (JMZ)"}
+{"code":"NC8","city_state":"No PORT Code (NC8)","city":"No PORT Code (NC8)"}
+{"code":"NYL","city_state":"No PORT Code (NYL)","city":"No PORT Code (NYL)"}
+{"code":"OAI","city_state":"No PORT Code (OAI)","city":"No PORT Code (OAI)"}
+{"code":"PCW","city_state":"No PORT Code (PCW)","city":"No PORT Code (PCW)"}
+{"code":"WA5","city_state":"No PORT Code (WAS)","city":"No PORT Code (WAS)"}
+{"code":"WTR","city_state":"No PORT Code (WTR)","city":"No PORT Code (WTR)"}
+{"code":"X96","city_state":"No PORT Code (X96)","city":"No PORT Code (X96)"}
+{"code":"XNA","city_state":"No PORT Code (XNA)","city":"No PORT Code (XNA)"}
+{"code":"YGF","city_state":"No PORT Code (YGF)","city":"No PORT Code (YGF)"}
+{"code":"5T6","city_state":"No PORT Code (5T6)","city":"No PORT Code (5T6)"}
+{"code":"060","city_state":"No PORT Code (60)","city":"No PORT Code (60)"}
+{"code":"SP0","city_state":"No PORT Code (SP0)","city":"No PORT Code (SP0)"}
+{"code":"W55","city_state":"No PORT Code (W55)","city":"No PORT Code (W55)"}
+{"code":"X44","city_state":"No PORT Code (X44)","city":"No PORT Code (X44)"}
+{"code":"AUH","city_state":"No PORT Code (AUH)","city":"No PORT Code (AUH)"}
+{"code":"RYY","city_state":"No PORT Code (RYY)","city":"No PORT Code (RYY)"}
+{"code":"SUS","city_state":"No PORT Code (SUS)","city":"No PORT Code (SUS)"}
+{"code":"74S","city_state":"No PORT Code (74S)","city":"No PORT Code (74S)"}
+{"code":"ATW","city_state":"No PORT Code (ATW)","city":"No PORT Code (ATW)"}
+{"code":"CPX","city_state":"No PORT Code (CPX)","city":"No PORT Code (CPX)"}
+{"code":"MTH","city_state":"No PORT Code (MTH)","city":"No PORT Code (MTH)"}
+{"code":"PFN","city_state":"No PORT Code (PFN)","city":"No PORT Code (PFN)"}
+{"code":"SCH","city_state":"No PORT Code (SCH)","city":"No PORT Code (SCH)"}
+{"code":"ASI","city_state":"No PORT Code (ASI)","city":"No PORT Code (ASI)"}
+{"code":"BKF","city_state":"No PORT Code (BKF)","city":"No PORT Code (BKF)"}
+{"code":"DAY","city_state":"No PORT Code (DAY)","city":"No PORT Code (DAY)"}
+{"code":"Y62","city_state":"No PORT Code (Y62)","city":"No PORT Code (Y62)"}
+{"code":"AG","city_state":"No PORT Code (AG)","city":"No PORT Code (AG)"}
+{"code":"BCM","city_state":"No PORT Code (BCM)","city":"No PORT Code (BCM)"}
+{"code":"DEC","city_state":"No PORT Code (DEC)","city":"No PORT Code (DEC)"}
+{"code":"PLB","city_state":"No PORT Code (PLB)","city":"No PORT Code (PLB)"}
+{"code":"CXO","city_state":"No PORT Code (CXO)","city":"No PORT Code (CXO)"}
+{"code":"JBQ","city_state":"No PORT Code (JBQ)","city":"No PORT Code (JBQ)"}
+{"code":"JIG","city_state":"No PORT Code (JIG)","city":"No PORT Code (JIG)"}
+{"code":"OGS","city_state":"No PORT Code (OGS)","city":"No PORT Code (OGS)"}
+{"code":"TIW","city_state":"No PORT Code (TIW)","city":"No PORT Code (TIW)"}
+{"code":"OTS","city_state":"No PORT Code (OTS)","city":"No PORT Code (OTS)"}
+{"code":"AMT","city_state":"No PORT Code (AMT)","city":"No PORT Code (AMT)"}
+{"code":"EGE","city_state":"No PORT Code (EGE)","city":"No PORT Code (EGE)"}
+{"code":"GPI","city_state":"No PORT Code (GPI)","city":"No PORT Code (GPI)"}
+{"code":"NGL","city_state":"No PORT Code (NGL)","city":"No PORT Code (NGL)"}
+{"code":"OLM","city_state":"No PORT Code (OLM)","city":"No PORT Code (OLM)"}
+{"code":".GA","city_state":"No PORT Code (.GA)","city":"No PORT Code (.GA)"}
+{"code":"CLX","city_state":"No PORT Code (CLX)","city":"No PORT Code (CLX)"}
+{"code":"CP ","city_state":"No PORT Code (CP)","city":"No PORT Code (CP)"}
+{"code":"FSC","city_state":"No PORT Code (FSC)","city":"No PORT Code (FSC)"}
+{"code":"NK","city_state":"No PORT Code (NK)","city":"No PORT Code (NK)"}
+{"code":"ADU","city_state":"No PORT Code (ADU)","city":"No PORT Code (ADU)"}
+{"code":"AKT","city_state":"No PORT Code (AKT)","city":"No PORT Code (AKT)"}
+{"code":"LIT","city_state":"No PORT Code (LIT)","city":"No PORT Code (LIT)"}
+{"code":"A2A","city_state":"No PORT Code (A2A)","city":"No PORT Code (A2A)"}
+{"code":"OSN","city_state":"No PORT Code (OSN)","city":"No PORT Code (OSN)"}
